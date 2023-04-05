@@ -1,6 +1,6 @@
 # Automatic-feedback-bot# Automatic-Feedback-Bot
 
-© [Abhijay Rajvansh](http://github.com/coder-ashish)
+© [Debashish Jena](http://github.com/coder-ashish)
 
 Steps to follow:
 
