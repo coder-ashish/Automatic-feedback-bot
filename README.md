@@ -25,4 +25,4 @@ python3 app.py
 4. Demo
    
  
- <img src="https://github.com/coder-ashish/Automatic-feedback-bot/blob/main/demo_mbheWUHO.gif" img align="right" width=35% height=50% >  
+ <img src="https://github.com/coder-ashish/Automatic-feedback-bot/blob/main/demo_mbheWUHO.gif" height=50% >  
